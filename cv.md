@@ -1,6 +1,5 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
-title: cv
-cv_pdf: cv_parkn.pdf
+title: Curriculum Vitae
 ---
