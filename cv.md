@@ -5,4 +5,23 @@ title: cv
 ---
 
 
-<embed src="https://narae-park.github.io/cv_parkn.pdf" width="100%" height="850px"/>
+<html>
+<head>
+    <title>Your Name - CV</title>
+</head>
+<body>
+    <h1>Your Name</h1>
+    <h2>Contact Information</h2>
+    <p>Email: your@email.com</p>
+    <p>LinkedIn: www.linkedin.com/in/yourprofile</p>
+    <!-- Add more sections for Education, Work Experience, Skills, etc. -->
+    
+    <!-- Embed the PDF viewer -->
+    <h2>Preview CV</h2>
+    <iframe src="https://docs.google.com/gview?url=https://narae-park.github.io/cv_parkn.pdf&embedded=true" style="width: 100%; height: 600px;"></iframe>
+    
+    <!-- Add the link to download the PDF file -->
+    <h2>Download CV</h2>
+    <p><a href="cv_parkn.pdf" target="_blank">Download PDF</a></p>
+</body>
+</html>
