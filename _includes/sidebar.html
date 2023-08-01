@@ -16,10 +16,20 @@
     {%- assign url = item.url | default: node.url -%}
     {%- assign title = item.title | default: node.title -%}
     {%- assign icon = item.icon | default: item.sidebaricon -%}
-    <a aria-label="{{ title }}" href="{{ url | relative_url }}" {% if url == page.url %}class="selected"{% endif %}>
-      <svg aria-hidden="true" class="icon"><use xlink:href="{{ "/assets/fontawesome/icons.svg" | relative_url }}#{{ icon }}"></use></svg>
-      <span aria-hidden="true">{{ title }}</span>
-    </a>
+    {% if icon contains "fas" or icon contains "far" or icon contains "fal" or icon contains "fab" %}
+      <!-- Font Awesome 아이콘 사용 -->
+      <a aria-label="{{ title }}" href="{{ url | relative_url }}" {% if url == page.url %}class="selected"{% endif %}>
+        <i class="{{ icon }}"></i>
+        <span aria-hidden="true">{{ title }}</span>
+      </a>
+    {% else %}
+      <!-- AcademicCon 아이콘 사용 -->
+      <a aria-label="{{ title }}" href="{{ url | relative_url }}" {% if url == page.url %}class="selected"{% endif %}>
+        <svg aria-hidden="true" class="icon"><use xlink:href="{{ "/assets/fontacademico/academicons.svg" | relative_url }}#{{ icon }}"></use></svg>
+        <span aria-hidden="true">{{ title }}</span>
+      </a>
+    {% endif %}
+
   {%- endfor -%}
   </nav>
   <div class="description">{{ site.description }}</div>
