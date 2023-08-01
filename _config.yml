@@ -30,6 +30,3 @@ comments:
 
 plugins:
  - jekyll-feed
-
-google_analytics:
-  tracking_id: G-76Z25F9XLW
