@@ -9,4 +9,4 @@ I am a Postdoctoral Fellow in [the Population Research Center](https://liberalar
 
 My primary fields of interest are health economics and demography. 
 
-My CV is available [here](https://drive.google.com/file/d/1-EPje5caemzxtaLP3kUL5LooEGErGM7I/view) (Last Updated: July 2023).
+My CV is available [here](assets/cv/cv_parkn.pdf) (Last Updated: July 2023).
