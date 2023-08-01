@@ -1,5 +1,8 @@
 ---
-layout: page
+layout: default
 permalink: /cv/
-title: Curriculum Vitae
+title: cv
+nav: true
+nav_order: 4
+redirect_to: /cv_parkn.pdf
 ---
