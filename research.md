@@ -15,9 +15,9 @@ layout: page
   
   In many countries, the child penalty, which is the loss in earnings associated with childbirth, is large and persistent for mothers. In this study, I estimate the effect of a first birth on the labor market outcomes in South Korea (hereafter Korea) over time using a method proposed by Kleven, Landais, and Søgaard (2019b). First, I find that Korean women experience a substantial penalty in earnings with a first childbirth compared to women in other countries. Second, while the child penalty in other countries comes from both the intensive and extensive margins, the penalty for Korean women arises almost exclusively on the extensive margin. Third, I find a substantial drop in earnings for mothers even before the child is born. Finally, to shed light on the source of the child penalty, I examine several of its correlates, including marriage, the lack of work benefits, and opportunity costs.
 
-  >Presented: 
-  >2023: Population Research Center FAMDEM 
-  >2021: Korean Women Economists Network (KWEN) Job Market Jamboree, Population Association of America (PAA) Annual Meeting
+  >Presented: <br/>
+  >2023: Population Research Center FAMDEM <br/>
+  >2021: Korean Women Economists Network (KWEN) Job Market Jamboree, Population Association of America (PAA) Annual Meeting <br/>
   >2020: Association for Public Policy Analysis & Management (APPAM) Fall Research Conference, Southern Economic Association (SEA) Annual Conference, MSU Applied Economics Seminar, MSU Brownbag Seminar
 
 * Heterogeneous Effects of Volunteering on Frailty in Later Life: A Panel Quantile Regression Approach (with Sae Hwang Han)
@@ -25,13 +25,13 @@ layout: page
 ## Works In Progress
 * The Trends of Marriage in South Korea: The Role of Sex Ratios
   
-  >Presented:
-  >2022: PAA Annual Meeting (Poster) 
+  >Presented: <br/>
+  >2022: PAA Annual Meeting (Poster) <br/>
   >2021: SEA Annual Conference
   
 * Preferences Are Not Expectations: Distinguishing Classic Fertility Survey Questions in Repeated Cross-Sections of South Korea (with Sam Arenberg and Dean Spears)
   
-  >Presented: 
+  >Presented: <br/>
   >2022: PAA Annual Meeting (Poster)
   
 * Racial Disparities in Organ Donation and Transplantation: Covid-19 Supply and Demand Shocks (with Michael Conlin, Stacy Dickert-Conlin, and Alison Ferer)
