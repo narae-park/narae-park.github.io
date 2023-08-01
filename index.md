@@ -3,10 +3,7 @@ title: ""
 layout: page
 ---
 
-![profile](/assets/naraepark.jpeg)
-
 Welcome! 
-
 
 I am a Postdoctoral Fellow in [the Population Research Center](https://liberalarts.utexas.edu/prc/) at the University of Texas at Austin 
 
