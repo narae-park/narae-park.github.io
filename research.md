@@ -7,7 +7,7 @@ layout: page
 ## Publications
 1. [Near-Universal Marriage, Early Childbearing, and Low Fertility: India’s Alternative Fertility Transition](https://www.demographic-research.org/volumes/vol48/34/default.htm#:~:text=In%20contrast%20to%20countries%20that,the%20birth%20of%20two%20children.) (with Sangita Vyas, Kathleen Broussard, and Dean Spears) Demographic Research 48 (2023): 945-956
 
-    >Presented: 
+    Presented: 
     >2023: PAA Annual Meeting (Poster)
 
 ## Working Papers
@@ -25,13 +25,13 @@ layout: page
 ## Works In Progress
 * The Trends of Marriage in South Korea: The Role of Sex Ratios
   
-  >Presented:
+  Presented:
   >2022: PAA Annual Meeting (Poster) 
   >2021: SEA Annual Conference
   
 * Preferences Are Not Expectations: Distinguishing Classic Fertility Survey Questions in Repeated Cross-Sections of South Korea (with Sam Arenberg and Dean Spears)
   
-  >Presented: 
+  Presented: 
   >2022: PAA Annual Meeting (Poster)
   
 * Racial Disparities in Organ Donation and Transplantation: Covid-19 Supply and Demand Shocks (with Michael Conlin, Stacy Dickert-Conlin, and Alison Ferer)
