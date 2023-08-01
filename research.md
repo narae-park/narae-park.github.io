@@ -5,7 +5,7 @@ layout: page
 ---
 
 ## Publications
-1. [Near-Universal Marriage, Early Childbearing, and Low Fertility: India’s Alternative Fertility Transition](https://www.demographic-research.org/volumes/vol48/34/default.htm#:~:text=In%20contrast%20to%20countries%20that,the%20birth%20of%20two%20children.) (with Sangita Vyas, Kathleen Broussard, and Dean Spears) Demographic Research 48 (2023): 945-956
+1. [Near-Universal Marriage, Early Childbearing, and Low Fertility: India’s Alternative Fertility Transition](https://www.demographic-research.org/volumes/vol48/34/default.htm#:~:text=In%20contrast%20to%20countries%20that,the%20birth%20of%20two%20children.) (with Sangita Vyas, Kathleen Broussard, and Dean Spears) *Demographic Research* 48 (2023): 945-956
 
     >Presented: <br/>
     >2023: PAA Annual Meeting (Poster)
@@ -20,7 +20,7 @@ layout: page
   >2021: Korean Women Economists Network (KWEN) Job Market Jamboree, Population Association of America (PAA) Annual Meeting <br/>
   >2020: Association for Public Policy Analysis & Management (APPAM) Fall Research Conference, Southern Economic Association (SEA) Annual Conference, MSU Applied Economics Seminar, MSU Brownbag Seminar
 
-* Heterogeneous Effects of Volunteering on Frailty in Later Life: A Panel Quantile Regression Approach (with Sae Hwang Han)
+* Heterogeneous Effects of Volunteering on Frailty in Later Life: A Panel Quantile Regression Approach (with Sae Hwang Han) *Submitted*
 
 ## Works In Progress
 * The Trends of Marriage in South Korea: The Role of Sex Ratios
