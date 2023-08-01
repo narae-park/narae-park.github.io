@@ -2,7 +2,7 @@
 layout: default
 permalink: /cv/
 title: cv
-nav: true
-nav_order: 4
-redirect_to: /cv_parkn.pdf
 ---
+
+
+<embed src="https://narae-park.github.io/cv_parkn.pdf" width="100%" height="850px"/>
