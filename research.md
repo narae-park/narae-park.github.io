@@ -22,6 +22,8 @@ layout: page
 
 * Heterogeneous Effects of Volunteering on Frailty in Later Life: A Panel Quantile Regression Approach (with Sae Hwang Han) *Submitted*
 
+    Decades of research indicate that volunteering is associated with better health for the volunteer beyond the selection effects based on health. However, little is known about potential heterogeneity in health outcomes associated with volunteering in the context of good or poor health. This study addresses this gap by focusing on the frailty index (FI) to investigate the volunteering-health nexus across the population FI distribution ranging from fit to frail. Using longitudinal data from the Health and Retirement Study, we estimated unconditional quantile regression models. Our findings demonstrated that the association between volunteering and FI varied throughout the FI distribution. The association was the most potent at the higher end of the FI distribution, indicating that volunteering yields greater benefits for older adults experiencing high levels of frailty.
+
 ## Works In Progress
 * The Trends of Marriage in South Korea: The Role of Sex Ratios
   
