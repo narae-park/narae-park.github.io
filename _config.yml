@@ -28,8 +28,11 @@ comments:
 #  disqus_shortname: ""    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
 
+url: "https://narae-park.github.io"
+
 plugins:
  - jekyll-feed
+ - jekyll-sitemap
 
 # Google Analytics
 google_analytics: G-76Z25F9XLW
