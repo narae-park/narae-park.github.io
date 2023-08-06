@@ -2,7 +2,7 @@ title: "Narae Park"
 author: "Narae Park"
 description: ""
 url: "https://narae-park.github.io"
-permalink: /:path
+permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
