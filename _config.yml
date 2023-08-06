@@ -1,7 +1,8 @@
 title: "Narae Park"
 author: "Narae Park"
 description: ""
-permalink: /:title/
+url: "https://narae-park.github.io"
+permalink: /:path
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
@@ -27,8 +28,6 @@ external:                  # shows a footer with social links - for available ic
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
-
-url: "https://narae-park.github.io"
 
 plugins:
  - jekyll-feed
