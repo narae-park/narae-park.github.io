@@ -20,11 +20,18 @@ layout: page
   >2021: KWEN Job Market Jamboree, PAA <br/>
   >2020: APPAM, SEA, MSU Applied Economics Seminar, MSU Brownbag Seminar
 
-* Heterogeneous Effects of Volunteering on Frailty in Later Life: A Panel Quantile Regression Approach (with Sae Hwang Han) *Submitted*
+* Heterogeneous Effects of Volunteering on Frailty in Later Life: A Panel Quantile Regression Approach (with Sae Hwang Han) *R&R at the Journals of Gerontology: Series B*
 
-    Decades of research indicate that volunteering is associated with better health for the volunteer beyond the selection effects based on health. However, little is known about potential heterogeneity in health outcomes associated with volunteering in the context of good or poor health. This study addresses this gap by focusing on the frailty index (FI) to investigate the volunteering-health nexus across the population FI distribution ranging from fit to frail. Using longitudinal data from the Health and Retirement Study, we estimated unconditional quantile regression models. Our findings demonstrated that the association between volunteering and FI varied throughout the FI distribution. The association was the most potent at the higher end of the FI distribution, indicating that volunteering yields greater benefits for older adults experiencing high levels of frailty.
+    Decades of research indicate that volunteering is associated with better health for the volunteer beyond the selection effects based on health. However, little is known about potential heterogeneity in health outcomes associated with volunteering in the context of good or poor health. This study addresses this gap by focusing on the frailty index (FI) to investigate the volunteering-health nexus across the population frailty distribution ranging from fit to frail. Using nationally representative data from the Health and Retirement Study, we estimated unconditional quantile regression models with panel fixed effects to estimate changes in FI associated with changes in the share of volunteers in the population across the frailty distribution observed across the study period (1998–2020). Our findings demonstrated that the volunteering–FI association was heterogeneous across the frailty distribution. The association was was the most potent at the higher end of the frailty distribution, suggesting that efforts to promote volunteering may yield greater benefits for older adults experiencing high levels of frailty. 
+
+* Credit Supply Shocks and Fertility: Long-Term Consequence (with Bokyung Kim and Minseog Kim)
 
 ## Works In Progress
+
+* Racial Disparities in Organ Donation and Transplantation: Covid-19 Supply and Demand Shocks (with Michael Conlin, Stacy Dickert-Conlin, and Alison Ferer)
+
+* Insulin Price Cap Effects on Healthcare Access and Outcomes: Evidence from Washington State Marketplace Data (with Jaeyeon Lee)
+  
 * The Trends of Marriage in South Korea: The Role of Sex Ratios
   
   >Presented: <br/>
@@ -35,7 +42,5 @@ layout: page
   
   >Presented: <br/>
   >2022: PAA (Poster)
-  
-* Racial Disparities in Organ Donation and Transplantation: Covid-19 Supply and Demand Shocks (with Michael Conlin, Stacy Dickert-Conlin, and Alison Ferer)
 
 * Family Structure, Gender, and Older Adult Health and Health Care (with Diane Coffey)
