@@ -4,12 +4,6 @@ permalink: "/research/"
 layout: page
 ---
 
-## Publications
-1. [Near-Universal Marriage, Early Childbearing, and Low Fertility: India’s Alternative Fertility Transition](https://www.demographic-research.org/volumes/vol48/34/default.htm#:~:text=In%20contrast%20to%20countries%20that,the%20birth%20of%20two%20children.) (with Sangita Vyas, Kathleen Broussard, and Dean Spears) *Demographic Research* 48 (2023): 945-956
-
-    >Presented: <br/>
-    >2023: PAA (Poster)
-
 ## Working Papers
 * [Credit Supply Shocks and Fertility: Long-Term Consequences](https://drive.google.com/file/d/1X7xGQ5n1e8XIMjHAyZnBrnejr586jx3N/view?usp=share_link) (with Bokyung Kim and Minseog Kim)
 
@@ -47,3 +41,9 @@ layout: page
   >2022: PAA (Poster)
 
 * Family Structure, Gender, and Older Adult Health and Health Care (with Diane Coffey)
+
+## Publications
+1. [Near-Universal Marriage, Early Childbearing, and Low Fertility: India’s Alternative Fertility Transition](https://www.demographic-research.org/volumes/vol48/34/default.htm#:~:text=In%20contrast%20to%20countries%20that,the%20birth%20of%20two%20children.) (with Sangita Vyas, Kathleen Broussard, and Dean Spears) *Demographic Research* 48 (2023): 945-956
+
+    >Presented: <br/>
+    >2023: PAA (Poster)
