@@ -9,7 +9,7 @@ Welcome!
 
 I am a BK research professor in the [Department of Economics](http://econ.korea.ac.kr/econ/) at Korea University and a research affiliate of [the Population Wellbeing Initiative](https://sites.utexas.edu/pwi/). 
 
-My primary fields of interest are demography, health economics, and labor economics. More specifically, I am interested in the interactions between socio-economic factors and demographic characteristics, focusing on aspects like fertility and health.
+My primary fields of interest are demography, health economics, and labor economics. More specifically, I am interested in the interactions between socio-economic factors and demographic characteristics, focusing on aspects like fertility and health outcomes.
 
 I earned my Ph.D. in Economics from Michigan State University and my B.S. in Materials Science and Engineering from Hanyang University. 
 
