@@ -3,11 +3,7 @@ title: "Home"
 layout: page
 ---
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1; width: 300px; height: 400px; overflow: hidden;">
-    <img src="/assets/photos/naraepark_.jpeg" alt="profile" style="object-fit: cover; width: 100%; height: 100%;">
-  </div>
-  <div style="flex: 1; margin-left: 20px;">
+<img align="left" width="200" src="assets/photos/naraepark_.jpeg" />
 
 Welcome! 
 
@@ -18,7 +14,3 @@ My primary fields of interest are demography, health economics, and labor econom
 My CV is available [here](assets/cv/cv_parkn.pdf) (Last Updated: November 2023).
 
 Email: [naraepark@korea.ac.kr](mailto:naraepark@korea.ac.kr) or [naraepark.econ@gmail.com](mailto:naraepark.econ@gmail.com)</p>
-  </div>
-</div>
-
-  
