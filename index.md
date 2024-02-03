@@ -3,6 +3,8 @@ title: "Home"
 layout: page
 ---
 
+![Picture](assets/photo/naraepark_.jpeg){ width="800" height="600" style="border-radius: 50%; margin: 0 auto" }
+
 Welcome! 
 
 I am a BK research professor in the [Department of Economics](http://econ.korea.ac.kr/econ/) at Korea University and a research affiliate of [the Population Wellbeing Initiative](https://sites.utexas.edu/pwi/). 
