@@ -3,7 +3,8 @@ title: "Home"
 layout: page
 ---
 
-![Picture](assets/photos/naraepark_.jpeg){ width="800" height="600" style="display: block; margin: 0 auto" }
+
+<img src="assets/photos/naraepark_.jpeg" alt="프로필 이미지" style="border-radius: 50%; width: 150px; height: 150px;">
 
 Welcome! 
 
