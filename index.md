@@ -3,7 +3,7 @@ title: "Home"
 layout: page
 ---
 
-![Picture](assets/photo/naraepark_.jpeg){ width="800" height="600" style="border-radius: 50%; margin: 0 auto" }
+![Picture](assets/photo/naraepark_.jpeg){ width="800" height="600" style="display: block; margin: 0 auto" }
 
 Welcome! 
 
