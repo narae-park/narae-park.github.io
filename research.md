@@ -25,22 +25,22 @@ layout: page
 
 ## Works In Progress
 
-* Racial Disparities in Organ Donation and Transplantation: Covid-19 Supply and Demand Shocks (with Michael Conlin, Stacy Dickert-Conlin, and Alison Ferer)
+* **Racial Disparities in Organ Donation and Transplantation: Covid-19 Supply and Demand Shocks** (with Michael Conlin, Stacy Dickert-Conlin, and Alison Ferer)
 
-* Insulin Price Cap Effects on Healthcare Access and Outcomes: Evidence from Washington State Marketplace Data (with Jaeyeon Lee)
+* **Insulin Price Cap Effects on Healthcare Access and Outcomes: Evidence from Washington State Marketplace Data** (with Jaeyeon Lee)
   
-* The Trends of Marriage in South Korea: The Role of Sex Ratios
+* **The Trends of Marriage in South Korea: The Role of Sex Ratios**
   
   >Presented: <br/>
   >2022: PAA (Poster) <br/>
   >2021: SEA
   
-* Preferences Are Not Expectations: Distinguishing Classic Fertility Survey Questions in Repeated Cross-Sections of South Korea (with Sam Arenberg and Dean Spears)
+* **Preferences Are Not Expectations: Distinguishing Classic Fertility Survey Questions in Repeated Cross-Sections of South Korea** (with Sam Arenberg and Dean Spears)
   
   >Presented: <br/>
   >2022: PAA (Poster)
 
-* Family Structure, Gender, and Older Adult Health and Health Care (with Diane Coffey)
+* **Family Structure, Gender, and Older Adult Health and Health Care** (with Diane Coffey)
 
 ## Publications
 1. [Near-Universal Marriage, Early Childbearing, and Low Fertility: India’s Alternative Fertility Transition](https://www.demographic-research.org/volumes/vol48/34/default.htm#:~:text=In%20contrast%20to%20countries%20that,the%20birth%20of%20two%20children.) (with Sangita Vyas, Kathleen Broussard, and Dean Spears) *Demographic Research* 48 (2023): 945-956
