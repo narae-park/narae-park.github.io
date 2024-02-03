@@ -4,8 +4,8 @@ layout: page
 ---
 
 
-<div style="text-align: center;">
-  <img src="/assets/photos/naraepark_.jpeg" alt="프로필 이미지" style="border-radius: 100%; width: 150px; height: 300px;">
+<div style="text-align: left; width: 150px; height: 150px; overflow: hidden; border-radius: 50%;">
+  <img src="/assets/photos/naraepark_.jpg" alt="profile" style="object-fit: cover; width: 100%; height: 100%;">
 </div>
 
 Welcome! 
