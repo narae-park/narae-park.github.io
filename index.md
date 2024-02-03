@@ -9,7 +9,7 @@ layout: page
   </div>
   <div style="flex: 1; margin-left: 20px;">
 
-    Welcome! 
+Welcome! 
 
 I am a BK research professor in the [Department of Economics](http://econ.korea.ac.kr/econ/) at Korea University and a research affiliate of [the Population Wellbeing Initiative](https://sites.utexas.edu/pwi/). 
 
