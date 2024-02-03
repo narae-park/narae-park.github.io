@@ -6,6 +6,9 @@ layout: page
 
 <div style="text-align: left; width: 300px; height: 400px; overflow: hidden;">
   <img src="/assets/photos/naraepark_.jpeg" alt="profile" style="object-fit: cover; width: 100%; height: 100%;">
+  Welcome! 
+
+I am a BK research professor in the [Department of Economics](http://econ.korea.ac.kr/econ/) at Korea University and a research affiliate of [the Population Wellbeing Initiative](https://sites.utexas.edu/pwi/). 
 </div>
 
 Welcome! 
