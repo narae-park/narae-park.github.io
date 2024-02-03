@@ -4,7 +4,7 @@ layout: page
 ---
 
 
-<div style="text-align: left; width: 200px; height: 300px; overflow: hidden;">
+<div style="text-align: left; width: 300px; height: 400px; overflow: hidden;">
   <img src="/assets/photos/naraepark_.jpeg" alt="profile" style="object-fit: cover; width: 100%; height: 100%;">
 </div>
 
