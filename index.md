@@ -4,7 +4,7 @@ layout: page
 ---
 
 
-<img src="assets/photos/naraepark_.jpeg" alt="프로필 이미지" style="border-radius: 50%; width: 150px; height: 150px;">
+<img src="assets/photos/naraepark_.jpeg" alt="프로필 이미지" style="border-radius: 50%;">
 
 Welcome! 
 
