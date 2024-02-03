@@ -3,7 +3,7 @@ title: "Home"
 layout: page
 ---
 
-![Pic](assets/photos/naraepark_.jpeg){:style="float: right;margin-right: 7px;margin-top: 7px;"}
+![Pic](assets/photos/naraepark_.jpeg){:style="float: right;margin-right: 7px;margin-top: 7px; width: 300px; height: 400px;"}
 
 Welcome! 
 
