@@ -4,13 +4,14 @@ layout: page
 ---
 
 <div style="display: flex; align-items: center;">
-  <div style=""flex: 1; text-align: left; width: 300px; height: 400px; overflow: hidden;">
+  <div style="flex: 1; width: 300px; height: 400px; overflow: hidden;">
     <img src="/assets/photos/naraepark_.jpeg" alt="profile" style="object-fit: cover; width: 100%; height: 100%;">
   </div>
   <div style="flex: 1; margin-left: 20px;">
     <p>여기에 글을 작성하세요.</p>
   </div>
 </div>
+
   
 
 Welcome! 
