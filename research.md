@@ -44,7 +44,7 @@ layout: page
 ## Publications
 2. Han, Sae Hwang, and Narae Park. [Heterogeneous Effects of Volunteering on Frailty in Later Life: A Panel Quantile Regression Approach.](https://academic.oup.com/psychsocgerontology/article-abstract/79/5/gbae033/7624909)  *The Journals of Gerontology: Series B*, 2024, 79 (5), gbae033
    
-1. Park, Narae, Sangita Vyas, Kathleen Broussard, and Dean Spears. [Near-Universal Marriage, Early Childbearing, and Low Fertility: India’s Alternative Fertility Transition.](https://www.demographic-research.org/volumes/vol48/34/default.htm#:~:text=In%20contrast%20to%20countries%20that,the%20birth%20of%20two%20children.)  *Demographic Research*, 2023, 48 (34), 945-956.
+1. Park, Narae, Sangita Vyas, Kathleen Broussard, and Dean Spears. [Near-Universal Marriage, Early Childbearing, and Low Fertility: India’s Alternative Fertility Transition.](https://www.demographic-research.org/articles/volume/48/34/)  *Demographic Research*, 2023, 48 (34), 945-956.
 
 
 
