@@ -5,7 +5,7 @@ layout: page
 ---
 
 ## Working Papers
-* **Credit Supply Shocks and Fertility: Long-Term Consequences** (with <a href="https://sites.google.com/view/bokyungkim" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Bokyung Kim</a> and Minseog Kim)
+* **Credit Supply Shocks and Fertility: Long-Term Consequences** (with [<span style="color: black">Bokyung Kim<\span](https://sites.google.com/view/bokyungkim) and Minseog Kim)
   
   >Presented: (including scheduled) <br/>
   >2024: Bank of Korea, Korea Institute for Industrial Economics and Trade, Global Labor Organization (GLO) – Berlin
