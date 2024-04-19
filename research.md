@@ -7,6 +7,9 @@ layout: page
 ## Working Papers
 * **Credit Supply Shocks and Fertility: Long-Term Consequences** (with Bokyung Kim and Minseog Kim)
   
+  >Presented: (including scheduled) <br/>
+  >2024: Bank of Korea, Korea Institute for Industrial Economics and Trade, Global Labor Organization (GLO) – Berlin
+  
 * **Is There a Child Penalty in South Korea?** [[Draft]](/assets/papers/naraepark_childpenalty.pdf)
   
   In many countries, the child penalty, which is the loss in earnings associated with childbirth, is large and persistent for mothers. In this study, I estimate the effect of a first birth on the labor market outcomes in South Korea (hereafter Korea) over time using a method proposed by Kleven, Landais, and Søgaard (2019b). First, I find that Korean women experience a substantial penalty in earnings with a first childbirth compared to women in other countries. Second, while the child penalty in other countries comes from both the intensive and extensive margins, the penalty for Korean women arises almost exclusively on the extensive margin. Third, I find a substantial drop in earnings for mothers even before the child is born. Finally, to shed light on the source of the child penalty, I examine several of its correlates, including marriage, the lack of work benefits, and opportunity costs.
@@ -23,7 +26,7 @@ layout: page
 * **Insulin Price Cap Effects on Healthcare Access and Outcomes: Evidence from Washington State Marketplace Data** (with Jaeyeon Lee)
 
   >Presented: <br/>
-  >2024: ASHE (Poster) -- Scheduled
+  >2024: ASHE (Poster) - Scheduled
   
 * **The Trends of Marriage in South Korea: The Role of Sex Ratios**
   
@@ -39,7 +42,7 @@ layout: page
 * **Family Structure, Gender, and Older Adult Health and Health Care** (with Diane Coffey)
 
 ## Publications
-1. [Near-Universal Marriage, Early Childbearing, and Low Fertility: India’s Alternative Fertility Transition](https://www.demographic-research.org/volumes/vol48/34/default.htm#:~:text=In%20contrast%20to%20countries%20that,the%20birth%20of%20two%20children.) (with Sangita Vyas, Kathleen Broussard, and Dean Spears) *Demographic Research*, 2023, 48 (34), 945--956.
+1. [Near-Universal Marriage, Early Childbearing, and Low Fertility: India’s Alternative Fertility Transition](https://www.demographic-research.org/volumes/vol48/34/default.htm#:~:text=In%20contrast%20to%20countries%20that,the%20birth%20of%20two%20children.) (with Sangita Vyas, Kathleen Broussard, and Dean Spears) *Demographic Research*, 2023, 48 (34), 945-956.
 
 2. [Heterogeneous Effects of Volunteering on Frailty in Later Life: A Panel Quantile Regression Approach](https://academic.oup.com/psychsocgerontology/article-abstract/79/5/gbae033/7624909) (with Sae Hwang Han) *The Journals of Gerontology: Series B*, 2024, 79 (5), gbae033
 
