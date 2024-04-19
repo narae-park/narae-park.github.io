@@ -25,8 +25,8 @@ layout: page
 
 * **Insulin Price Cap Effects on Healthcare Access and Outcomes: Evidence from Washington State Marketplace Data** (with Jaeyeon Lee)
 
-  >Presented: <br/>
-  >2024: ASHE (Poster) - Scheduled
+  >Presented: (including scheduled) <br/>
+  >2024: ASHE (Poster) 
   
 * **The Trends of Marriage in South Korea: The Role of Sex Ratios**
   
