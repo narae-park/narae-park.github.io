@@ -5,7 +5,7 @@ layout: page
 ---
 
 ## Working Papers
-* **Credit Supply Shocks and Fertility: Long-Term Consequences** (with [<span style="color: black">Bokyung Kim<\span>](https://sites.google.com/view/bokyungkim) and Minseog Kim)
+* **Credit Supply Shocks and Fertility: Long-Term Consequences** (with <a href="https://sites.google.com/view/bokyungkim" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Bokyung Kim</a> and Minseog Kim)
   
   >Presented: (including scheduled) <br/>
   >2024: Bank of Korea, Korea Institute for Industrial Economics and Trade, Global Labor Organization (GLO) – Berlin
@@ -21,12 +21,12 @@ layout: page
 
 ## Works In Progress
 
-* **Racial Disparities in Organ Donation and Transplantation: Covid-19 Supply and Demand Shocks** (with Michael Conlin, Stacy Dickert-Conlin, and Alison Ferer)
+* **Racial Disparities in Organ Donation and Transplantation: Covid-19 Supply and Demand Shocks** (with Michael Conlin, <a href="https://sites.google.com/msu.edu/stacydickert-conlin" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Stacy Dickert-Conlin</a>, and Alison Ferer)
 
-* **Insulin Price Cap Effects on Healthcare Access and Outcomes: Evidence from Washington State Marketplace Data** (with Jaeyeon Lee)
+* **Insulin Price Cap Effects on Healthcare Access and Outcomes: Evidence from Washington State Marketplace Data** (with <a href="https://sites.google.com/view/jaeyeonlee" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Jaeyeon Lee</a>)
 
   >Presented: (including scheduled) <br/>
-  >2024: ASHE (Poster) 
+  >2024: ASHEcon (Poster) 
   
 * **The Trends of Marriage in South Korea: The Role of Sex Ratios**
   
