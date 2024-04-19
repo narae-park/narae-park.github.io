@@ -21,6 +21,9 @@ layout: page
 * **Racial Disparities in Organ Donation and Transplantation: Covid-19 Supply and Demand Shocks** (with Michael Conlin, Stacy Dickert-Conlin, and Alison Ferer)
 
 * **Insulin Price Cap Effects on Healthcare Access and Outcomes: Evidence from Washington State Marketplace Data** (with Jaeyeon Lee)
+
+  >Presented: <br/>
+  >2024: ASHE (Poster) -- Scheduled
   
 * **The Trends of Marriage in South Korea: The Role of Sex Ratios**
   
@@ -37,9 +40,6 @@ layout: page
 
 ## Publications
 1. [Near-Universal Marriage, Early Childbearing, and Low Fertility: India’s Alternative Fertility Transition](https://www.demographic-research.org/volumes/vol48/34/default.htm#:~:text=In%20contrast%20to%20countries%20that,the%20birth%20of%20two%20children.) (with Sangita Vyas, Kathleen Broussard, and Dean Spears) *Demographic Research*, 2023, 48 (34), 945--956.
-
-    >Presented: <br/>
-    >2023: PAA (Poster)
 
 2. [Heterogeneous Effects of Volunteering on Frailty in Later Life: A Panel Quantile Regression Approach](https://academic.oup.com/psychsocgerontology/article-abstract/79/5/gbae033/7624909) (with Sae Hwang Han) *The Journals of Gerontology: Series B*, 2024, 79 (5), gbae033
 
