@@ -4,8 +4,8 @@ permalink: "/research/"
 layout: page
 ---
 
-# Working Papers
-* **Credit Supply Shocks and Fertility: Long-Term Consequences** (with <a href="https://sites.google.com/view/bokyungkim" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Bokyung Kim</a> and Minseog Kim)
+## Working Papers
+* **Credit Supply Shocks and Fertility: Long-Term Consequences** (with <a href="https://sites.google.com/view/bokyungkim" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Bokyung Kim</a> and Minseog Kim) [Draft Available Upon Request]
   
   >Presented: <br/>
   >2024: Bank of Korea, Korea Institute for Industrial Economics and Trade, Global Labor Organization (GLO) – Berlin
@@ -42,7 +42,7 @@ layout: page
 * **Family Structure, Gender, and Older Adult Health and Health Care** (with Diane Coffey)
 
 ## Publications
-\* Non-alphabetic order
+\* Non-Alphabetic Order
 
 1. \*Han, Sae Hwang, and Narae Park. [**Heterogeneous Effects of Volunteering on Frailty in Later Life: A Panel Quantile Regression Approach**.](https://academic.oup.com/psychsocgerontology/article-abstract/79/5/gbae033/7624909)  *The Journals of Gerontology: Series B*, 2024, 79 (5), gbae033
    
