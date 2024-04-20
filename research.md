@@ -7,7 +7,7 @@ layout: page
 ## Working Papers
 * **Credit Supply Shocks and Fertility: Long-Term Consequences** (with <a href="https://sites.google.com/view/bokyungkim" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Bokyung Kim</a> and Minseog Kim)
   
-  >Presented: (including scheduled) <br/>
+  >Presented: <br/>
   >2024: Bank of Korea, Korea Institute for Industrial Economics and Trade, Global Labor Organization (GLO) – Berlin
   
 * **Is There a Child Penalty in South Korea?** [[Draft]](/assets/papers/naraepark_childpenalty.pdf)
@@ -25,7 +25,7 @@ layout: page
 
 * **Insulin Price Cap Effects on Healthcare Access and Outcomes: Evidence from Washington State Marketplace Data** (with <a href="https://sites.google.com/view/jaeyeonlee" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Jaeyeon Lee</a>)
 
-  >Presented: (including scheduled) <br/>
+  >Presented: <br/>
   >2024: ASHEcon (Poster) 
   
 * **The Trends of Marriage in South Korea: The Role of Sex Ratios**
@@ -42,7 +42,8 @@ layout: page
 * **Family Structure, Gender, and Older Adult Health and Health Care** (with Diane Coffey)
 
 ## Publications
-2. Han, Sae Hwang, and Narae Park. [**Heterogeneous Effects of Volunteering on Frailty in Later Life: A Panel Quantile Regression Approach**.](https://academic.oup.com/psychsocgerontology/article-abstract/79/5/gbae033/7624909)  *The Journals of Gerontology: Series B*, 2024, 79 (5), gbae033
+^*^ Non-alphabetic order
+2. ^*^Han, Sae Hwang, and Narae Park. [**Heterogeneous Effects of Volunteering on Frailty in Later Life: A Panel Quantile Regression Approach**.](https://academic.oup.com/psychsocgerontology/article-abstract/79/5/gbae033/7624909)  *The Journals of Gerontology: Series B*, 2024, 79 (5), gbae033
    
 1. Park, Narae, Sangita Vyas, Kathleen Broussard, and Dean Spears. [**Near-Universal Marriage, Early Childbearing, and Low Fertility: India’s Alternative Fertility Transition**.](https://www.demographic-research.org/articles/volume/48/34/)  *Demographic Research*, 2023, 48 (34), 945-956.
 
