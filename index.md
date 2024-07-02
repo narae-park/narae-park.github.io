@@ -3,7 +3,7 @@ title: "Home"
 layout: page
 ---
 
-![Pic](assets/photos/naraepark_.jpeg){:style="float: left;margin-right: 20px; margin-top: -5px; max-width: 350px; max-height: 450px;"}
+![Pic](assets/photos/naraepark_.jpeg){:style="float: left;margin-right: 20px; margin-top: -5px; max-width: 300px; max-height: 400px;"}
 
 Welcome! 
 
@@ -13,6 +13,6 @@ My primary fields of interest are demography, health economics, and labor econom
 
 I earned my Ph.D. in Economics from Michigan State University and my B.S. in Materials Science and Engineering from Hanyang University. 
 
-My CV is available [here](assets/cv/cv_parkn.pdf) (Last Updated: May 2024).
+My CV is available [here](assets/cv/cv_parkn.pdf) (Last Updated: July 2024).
 
 Email: [naraepark.econ@gmail.com](mailto:naraepark.econ@gmail.com)
