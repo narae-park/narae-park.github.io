@@ -25,7 +25,7 @@ layout: page
 
 * **Racial Disparities in Organ Donation and Transplantation: Covid-19 Supply and Demand Shocks** (with Michael Conlin, <a href="https://sites.google.com/msu.edu/stacydickert-conlin" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Stacy Dickert-Conlin</a>, and Alison Ferer)
 
-* **Insulin Price Cap Effects on Healthcare Access and Outcomes: Evidence from Washington State Marketplace Data** (with <a href="https://sites.google.com/view/jaeyeonlee" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Jaeyeon Lee</a>)
+* **Insulin Price Cap Effects on Healthcare Utilization, Outcomes, and Costs: Evidence from Washington State Marketplace Data** (with <a href="https://sites.google.com/view/jaeyeonlee" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Jaeyeon Lee</a>)
 
   >Presented: <br/>
   >2024: ASHEcon (Poster) 
