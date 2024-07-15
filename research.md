@@ -5,7 +5,7 @@ layout: page
 ---
 
 ## Working Papers
-* **Interdisciplinary Team-Based Intervention to Reduce Acute Care Utilization Among Emergency Department Multi-Visit Patients** (with Yijung Kim, Jenna Everett, Lauren Bangerter, and Lucas Carlson)
+* **Interdisciplinary Team-Based Intervention to Reduce Acute Care Utilization Among Emergency Department Multi-Visit Patients** (with Yijung Kim, Jenna Everett, Lauren Bangerter, and Lucas Carlson) *Submitted*
 
 * **Credit Supply Shocks and Fertility: Long-Term Consequences** (with <a href="https://sites.google.com/view/bokyungkim" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Bokyung Kim</a> and Minseog Kim)
   
@@ -28,7 +28,7 @@ layout: page
 * **Insulin Price Cap Effects on Healthcare Utilization, Outcomes, and Costs: Evidence from Washington State Marketplace Data** (with <a href="https://sites.google.com/view/jaeyeonlee" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Jaeyeon Lee</a>)
 
   >Presented: <br/>
-  >2024: ASHEcon (Poster) 
+  >2024: ASHEcon (Poster), SEA 
   
 * **The Trends of Marriage in South Korea: The Role of Sex Ratios**
   
