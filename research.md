@@ -28,12 +28,12 @@ layout: page
 * **Insulin Price Cap Effects on Healthcare Utilization, Outcomes, and Costs: Evidence from Washington State Marketplace Data** (with <a href="https://sites.google.com/view/jaeyeonlee" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Jaeyeon Lee</a>)
 
   >Presented: <br/>
-  >2024: ASHEcon (Poster), SEA 
+  >2024: ASHEcon, APPAM, SEA 
   
 * **The Trends of Marriage in South Korea: The Role of Sex Ratios**
   
   >Presented: <br/>
-  >2022: PAA (Poster) <br/>
+  >2022: PAA <br/>
   >2021: SEA
   
 * **Preferences Are Not Expectations: Distinguishing Classic Fertility Survey Questions in Repeated Cross-Sections of South Korea** (with Sam Arenberg and Dean Spears)
