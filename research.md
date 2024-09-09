@@ -7,7 +7,7 @@ layout: page
 ## Working Papers
 * **Interdisciplinary Team-Based Intervention to Reduce Acute Care Utilization Among Emergency Department Multi-Visit Patients** (with Yijung Kim, Jenna Everett, Lauren Bangerter, and Lucas Carlson) *Submitted*
 
-* **Credit Supply Shocks and Fertility: Long-Term Consequences** (with <a href="https://sites.google.com/view/bokyungkim" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Bokyung Kim</a> and Minseog Kim)
+* **Credit Supply Shocks and Fertility: Long-Term Consequences** (with <a href="https://sites.google.com/view/bokyungkim" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Bokyung Kim</a> and <a href="https://minseogkim.github.io/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Minseog Kim</a>)
   
   >Presented: <br/>
   >2024: Bank of Korea, Korea Institute for Industrial Economics and Trade, Global Labor Organization (GLO) – Berlin
