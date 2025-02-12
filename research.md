@@ -5,7 +5,7 @@ layout: page
 ---
 
 ## Working Papers
-* **Interdisciplinary Team-Based Intervention to Reduce Acute Care Utilization Among Emergency Department Multi-Visit Patients** (with Yijung Kim, Jenna Everett, Lauren Bangerter, and Lucas Carlson) *R&R at Health Services Research*
+* **Interdisciplinary Team-Based Intervention to Reduce Acute Care Utilization Among Emergency Department Multi-Visit Patients** (with Yijung Kim, Jenna Everett, Lauren Bangerter, and Lucas Carlson) *Accepted at Health Services Research*
 
 * **Credit Supply Shocks and Fertility: Long-Term Consequences** (with <a href="https://sites.google.com/view/bokyungkim" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Bokyung Kim</a> and <a href="https://minseogkim.github.io/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Minseog Kim</a>)
   
