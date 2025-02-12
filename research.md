@@ -10,7 +10,7 @@ layout: page
 * **Credit Supply Shocks and Fertility: Long-Term Consequences** (with <a href="https://sites.google.com/view/bokyungkim" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Bokyung Kim</a> and <a href="https://minseogkim.github.io/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Minseog Kim</a>)
   
   >Presented: <br/>
-  >2025: Korea’s Allied Economic Associations Annual Meeting
+  >2025: Korea’s Allied Economic Associations Annual Meeting <br/>
   >2024: Bank of Korea, Korea Institute for Industrial Economics and Trade, Global Labor Organization (GLO) – Berlin
   
 * **Is There a Child Penalty in South Korea?** [[Draft]](/assets/papers/naraepark_childpenalty.pdf)
@@ -29,7 +29,7 @@ layout: page
 * **Insulin Price Cap Effects on Healthcare Utilization, Outcomes, and Costs: Evidence from Washington State Marketplace Data** (with <a href="https://sites.google.com/view/jaeyeonlee" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Jaeyeon Lee</a>)
 
   >Presented: <br/>
-  >2025: PAA (Poster)
+  >2025: PAA (Poster) <br/>
   >2024: ASHEcon, APPAM, SEA 
   
 * **The Trends of Marriage in South Korea: The Role of Sex Ratios**
