@@ -6,4 +6,5 @@ gem "webrick", "~> 1.7"
 group :jekyll_plugins do
   gem "jekyll-sitemap"
   gem "jekyll-feed", "~> 0.12"
+  gem "jekyll-gist"
 end
