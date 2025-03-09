@@ -5,8 +5,6 @@ layout: page
 ---
 
 ## Working Papers
-* **Interdisciplinary Team-Based Intervention to Reduce Acute Care Utilization Among Emergency Department Multi-Visit Patients** (with Yijung Kim, Jenna Everett, Lauren Bangerter, and Lucas Carlson) *Accepted at Health Services Research*
-
 * **Credit Supply Shocks and Fertility: Long-Term Consequences** (with <a href="https://sites.google.com/view/bokyungkim" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Bokyung Kim</a> and <a href="https://minseogkim.github.io/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Minseog Kim</a>)
   
   >Presented: <br/>
@@ -35,7 +33,7 @@ layout: page
 * **The Trends of Marriage in South Korea: The Role of Sex Ratios**
   
   >Presented: <br/>
-  >2022: PAA <br/>
+  >2022: PAA (Poster) <br/>
   >2021: SEA
   
 * **Preferences Are Not Expectations: Distinguishing Classic Fertility Survey Questions in Repeated Cross-Sections of South Korea** (with Sam Arenberg and Dean Spears)
@@ -47,6 +45,8 @@ layout: page
 
 ## Publications
 \* Non-Alphabetic Order
-1. \*Han, Sae Hwang, and Narae Park. [**Heterogeneous Effects of Volunteering on Frailty in Later Life: A Panel Quantile Regression Approach**.](https://academic.oup.com/psychsocgerontology/article-abstract/79/5/gbae033/7624909)  *The Journals of Gerontology: Series B*, 2024, 79 (5), gbae033.
-   
 1. \*Park, Narae, Sangita Vyas, Kathleen Broussard, and Dean Spears. [**Near-Universal Marriage, Early Childbearing, and Low Fertility: India’s Alternative Fertility Transition**.](https://www.demographic-research.org/articles/volume/48/34/)  *Demographic Research*, 2023, 48 (34), 945-956.
+
+2. \*Han, Sae Hwang, and Narae Park. [**Heterogeneous Effects of Volunteering on Frailty in Later Life: A Panel Quantile Regression Approach**.](https://academic.oup.com/psychsocgerontology/article-abstract/79/5/gbae033/7624909)  *The Journals of Gerontology: Series B*, 2024, 79 (5), gbae033.
+
+3. \*Kim, Yijung, Narae Park, Jenna Everett, Lauren Bangerter, and Lucas Carlson. [**Interdisciplinary Team-Based Intervention to Reduce Acute Care Utilization Among Emergency Department Multi-Visit Patients**.](https://onlinelibrary.wiley.com/doi/full/10.1111/1475-6773.14458) *Health Services Research*, 2025, e14458.
