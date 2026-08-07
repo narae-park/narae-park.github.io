@@ -8,6 +8,7 @@ layout: page
 * **Credit Supply Shocks and Fertility: Long-Term Consequences** (with <a href="https://sites.google.com/view/bokyungkim" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Bokyung Kim</a> and <a href="https://minseogkim.github.io/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Minseog Kim</a>)
   
   >Presented: <br/>
+  >2026: PAA
   >2025: Korea’s Allied Economic Associations Annual Meeting <br/>
   >2024: Bank of Korea, Korea Institute for Industrial Economics and Trade, Global Labor Organization (GLO) – Berlin
   
