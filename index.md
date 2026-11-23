@@ -7,9 +7,9 @@ layout: page
 
 Welcome! 
 
-I am a Research Professor at George Mason University Korea. 
+I am a Research Professor at George Mason University Korea and the Research Lead of NEST Korea, an interdisciplinary research initiative focused on low fertility and population aging.
 
-My primary fields of interest are demography, health economics, and labor economics. More specifically, I study the interactions between socio-economic factors and demographic characteristics, focusing on aspects like fertility and health outcomes.
+My primary research interests lie in demography, health economics, and labor economics. My research examines how socioeconomic factors interact with demographic characteristics, with a particular focus on fertility, family formation, and health outcomes.
 
 I earned my Ph.D. in Economics from Michigan State University and my B.S. in Materials Science and Engineering from Hanyang University. 
 
